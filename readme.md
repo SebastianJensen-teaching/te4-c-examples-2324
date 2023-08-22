@@ -7,7 +7,7 @@ These are examples in C programming for beginners from the introductory lectures
 Build the examples in the command line like this:
 
 ```
-cc ex1-printing.c -0 Printing
+cc ex1-printing.c -o Printing
 ```
 
 Then run it by prefacing the name of the new file with dotslash:
