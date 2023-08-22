@@ -18,7 +18,7 @@ int main()
 
     printf("The word %s is %d letters long.\n", magic_word, word_length);
 
-    if (strcmp(magic_word, "abracadrabra"))
+    if (strcmp(magic_word, "abracadrabra") == 0)
     {
         puts("Abracadabra is the magic word!\n");
     }
