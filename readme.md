@@ -4,16 +4,16 @@ These are examples in C programming for beginners from the introductory lectures
 
 # How do I use it?
 
-Build it in the command line like this:
+Build the examples in the command line like this:
 
-´´´.sh
+```.sh
 cc ex1-printing.c -0 Printing
-´´´
+```
 
 Then run it by prefacing the name of the new file with dotslash:
 
-´´´.sh
+```
 ./Printing
-´´´
+```
 
 Enjoy!
