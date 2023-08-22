@@ -6,7 +6,7 @@ These are examples in C programming for beginners from the introductory lectures
 
 Build the examples in the command line like this:
 
-```.sh
+```
 cc ex1-printing.c -0 Printing
 ```
 
